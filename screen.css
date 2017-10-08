@@ -29,7 +29,7 @@ caption, th, td {
 q, blockquote {
 	quotes: none;
 }
- 
+
 q:before, q:after, blockquote:before, blockquote:after {
 	content: "";
 	content: none;
@@ -58,4 +58,8 @@ a:hover {
 
 #main {
 	padding: 50px;
+	h1 {
+font-size: 8em;
+color: #ff69b4;
+}
 }
